@@ -1,9 +1,10 @@
 # JavaScript Coding Questions
 
-## 📋 Index
+### Table of Contents
 
-| # | Question |
-|---|----------|
+<!-- TOC_START -->
+| No. | Questions |
+| --- | --------- |
 | 1 | [Rotate array at given index](#1-rotate-array-at-given-index) |
 ---
 
