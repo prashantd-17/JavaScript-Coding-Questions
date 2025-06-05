@@ -1,9 +1,10 @@
 # JavaScript Coding Questions
 
-## Index
+## 📋 Index
 
-1. [Rotate array at given index](#rotate-array-at-given-index)
-
+| # | Question |
+|---|----------|
+| 1 | [Rotate array at given index](#1-rotate-array-at-given-index) |
 ---
 
 ## 1. Rotate array at given index
